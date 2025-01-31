@@ -1,0 +1,112 @@
+{
+  "Big Cats":[
+  {
+    "Species": "Big Cats",
+    "Name": "Lion",
+    "Size": "8 ft",
+    "Location": "Africa",
+    "img": "assets/bigcat/lion.jpg"
+  },
+  {
+    "Species": "Big",
+    "Name": "Tiger",
+    "Size": "10 ft",
+    "Location": "Asia",
+    "img": "assets/bigcat/tiger.jpg"
+  },
+  {
+    "Species": "Big Cats",
+    "Name": "Jaguar",
+    "Size": "5 ft",
+    "Location": "Amazon",
+    "img": "assets/bigcat/jaguar.jpg"
+  },
+  {
+    "Species": "Big",
+    "Name": "Leopard",
+    "Size": "5 ft",
+    "Location": "Africa, Asia",
+    "img": "assets/bigcat/leopard.jpg"
+  },
+  {
+    "Species": "Big Cats",
+    "Name": "Cheetah",
+    "Size": "5 ft",
+    "Location": "Africa",
+    "img": "assets/bigcat/cheetah.webp"
+  },
+  {
+    "Species": "Big Cats",
+    "Name": "Jaguar",
+    "Size": "5 ft",
+    "Location": "South and Central America",
+    "img": "assets/bigcat/jaguar.jpg"
+  }
+],
+
+"Dogs":[
+  {
+    "Species": "Dog",
+    "Name": "Bulldog",
+    "Size": "2 ft",
+    "Location": "Worldwide",
+    "img": "assets/dogs/Bulldog.avif"
+  },
+  {
+    "Species": "Dog",
+    "Name": "Poodle",
+    "Size": "2 ft",
+    "Location": "Worldwide",
+    "img": "assets/dogs/poodle.avif"
+  },
+  {
+    "Species": "Dog",
+    "Name": "Siberian Husky",
+    "Size": "4 ft",
+    "Location": "Worldwide",
+    "img": "assets/dogs/Siberian_Husky.webp"
+  },
+  {
+    "Species": "Dog",
+    "Name": "Beagle",
+    "Size": "3 ft",
+    "Location": "Worldwide",
+    "img": "assets/dogs/beagle.jpg"
+  }
+],
+
+"Big Fish":[
+  
+  {
+    "Species": "Big Fish",
+    "Name": "Humpback Whale",
+    "Size": "15 ft",
+    "Location": "Coastal waters worldwide",
+    "img": "assets/bigfish/Great_White_Shark.webp"
+  },
+  {
+    "Species": "Big Fish",
+    "Name": "Killer Whale",
+    "Size": "12 ft",
+    "Location": "Amazon River basin, South America",
+    "img": "assets/bigfish/Arapaima.jpg"
+  },
+  {
+    "Species": "Big Fish",
+    "Name": "Tiger Shark",
+    "Size": "8 ft",
+    "Location": "Atlantic Ocean, Gulf of Mexico, Caribbean",
+    "img": "assets/bigfish/Atlantic_Tarpon.webp"
+  },
+  {
+    "Species": "Big Fish",
+    "Name": "Hammerhead Shark",
+    "Size": "8 ft",
+    "Location": "Mekong River, Southeast Asia",
+    "img": "assets/bigfish/Mekong_Giant_Catfish.webp"
+  }
+ 
+]
+}
+
+
